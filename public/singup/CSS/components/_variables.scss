@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap");
+
+$ff-primary: 'Poppins', sans-serif;
+$ff-secondary: 'Zen Kurenaido', sans-serif;
+
+$clr-primary-200: #037da6;
+$clr-primary-400: #025C7B;
+$clr-primary-600: #014D67;
+$clr-neutral-100: #ffffff;
+$clr-neutral-300: #acacac;
+$clr-neutral-400: #aaa;
+$clr-neutral-500: #585858;
+$clr-neutral-600: #525252;
+$clr-neutral-700: #333;
+$clr-neutral-800: #2e2e2e;
+$clr-neutral-900: #070707;
+
+$bg-neutral-100: #f0f0f0;
+
+
+// font
+$fs-100: 1.2rem;
+$fs-200: 1.5rem;
+$fs-600: 2.5rem;
+
+// shadow
+$shadow: 1px 3px 3px $clr-primary-400;
+$box-shadow: 1px 1px 2px 2px $clr-primary-400;
